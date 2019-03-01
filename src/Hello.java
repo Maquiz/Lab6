@@ -9,7 +9,7 @@ public class Hello {
 
 		//Hello World
 
-		System.out.println("Yeeeeet);
+		System.out.println("Yeeeeet");
 
 		evil_number--;
 		//Hello World
