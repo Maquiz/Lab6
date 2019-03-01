@@ -14,7 +14,7 @@ public class Hello {
 		evil_number--;
 		//Hello World
 
-
+		System.out.println("Life is Strange. BUY THIS GAME!!!");
 
 		System.out.println("Yeeeeet");
 		System.out.println("Yeeeeet");
