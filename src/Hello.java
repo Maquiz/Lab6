@@ -1,4 +1,3 @@
-package Lab6;
 
 public class Hello {
 
@@ -22,11 +21,7 @@ public class Hello {
 
         System.out.println(evil_number);
 
-		System.out.println("Lets commit to my branch");
-
-		int tester = 10 + 30;
-		//sometimes I rub vasiline on myself and pretend I am a slug.
-		System.out.println(tester);
+		System.out.println("Lets commit to my branch3");
 	}
 
 }
